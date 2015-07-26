@@ -1,0 +1,1 @@
+This is a project which is concentrating on building an android app that could grab a Sudoku puzzle from any place, such as puzzle book, newspaper, etc. OpenCV would be used to handle the computer vision part, and JNI is the glue to connect C++ code and Android Java code.
